@@ -1,0 +1,8 @@
+git init で初期化
+ソース等を保存
+git add　で登録  git status
+git commit
+git logで確認
+変更する
+git branch 名前決める
+git branch で確認
